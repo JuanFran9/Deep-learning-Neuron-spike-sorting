@@ -8,8 +8,8 @@ to detect the spikes within the signal and determine which type of neurone produ
 1, 2, 3, 4 or 5).
 The algorithms was be tested and optimised using the given recordings and then challenged using a
 different and more complex dataset with more noise.
-![image](https://github.com/JuanFran9/Neuron-spike-sorting/assets/58949950/93343a03-5f77-40f7-a987-e10b22071020)
 
+![image](https://github.com/JuanFran9/Neuron-spike-sorting/assets/58949950/93343a03-5f77-40f7-a987-e10b22071020)
 
 Solution: 
 
